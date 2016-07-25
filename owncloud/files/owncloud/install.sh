@@ -11,4 +11,3 @@ else
   echo "Downloaded file corrupted, aborting..."
   exit 1
 fi
-rm /var/www/owncloud/.user.ini
