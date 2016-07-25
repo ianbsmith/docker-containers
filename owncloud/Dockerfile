@@ -1,6 +1,6 @@
 FROM phusion/baseimage:0.9.18
 MAINTAINER gfjardim <gfjardim@gmail.com>
-ENV OWNCLOUD_VERSION="8.2.2"
+ENV OWNCLOUD_VERSION="9.1.0"
 
 #########################################
 ##        ENVIRONMENTAL CONFIG         ##
